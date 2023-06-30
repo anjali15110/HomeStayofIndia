@@ -1,0 +1,26 @@
+tr:first-child{
+  color:#9e6de2;
+}
+			
+tr:hover .changecolor{
+  background:white !important;
+  color:#9e6de0 !important;
+  transition:0.9s;
+}
+
+.valid{height: 20px;
+  margin-bottom: 10px;
+  margin-top: -11px;
+}
+
+#multiselect_checkbox_multiSelect {
+	margin-top: -6px;
+	width:100%;
+}
+
+#multiselect_checkbox_input {
+	background: #f0f1f5;
+    padding-top: 20px;
+    border: none;
+    border-radius: 3px;
+}
