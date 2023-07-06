@@ -2,7 +2,7 @@
 	$servername = 'localhost';
 	$username = 'root';
 	$password = '';
-	$database = 'homestay';
+	$database = 'db';
 	$conn = mysqli_connect($servername, $username, $password, $database);
 	
 	
